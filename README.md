@@ -3,7 +3,7 @@
 je velmi snadné ho upravit pro degradaci i jiných materiálů než pouze kovu. Plugin přidá degradační node group do aktivního materiálu otevřeného v node editoru.
 
 ![alt text](img/metal_degradation/result.png)
-image:img/metal_degradation/result_1.png[result, width = 100%]
-image:img/metal_degradation/result_2.png[result, width = 100%]
+![alt text](img/metal_degradation/result_1.png)
+i![alt text](metal_degradation/result_2.png)
 
 * Dokumentace k práci najdete xref:/metalDegradation.adoc[zde]
