@@ -1,0 +1,27 @@
+# Dokumentace
+## 2D
+### GIMP - Změna barevných kanálů
+* Semestrální práce zaměřená na téma úpravy barevných kanálů. Plugin je schopen měnit barvy ve vybrané oblasti v rámci barevného modelu RGB tak zároveň simulovat zacházení s barvami v modelu HSV.
+image:2D/img/mushroom.png[ukazka prace programu, width = 100%]
+* Přesnost operace barevné transformace v modelu HSV jsem porovnal s podobnými nástroji v photoshopu a gimpu.
+image:2D/img/gradientResult.png[ukazka prace programu, width = 100%]
+
+* Dokumentace k práci najdete xref:/2D/dokumentace.adoc[zde]
+
+## 3D
+### Blender - Osvětlovací modely
+* Semestrální práce na téma tvorba jednoduchých osvětlovacích modelů. Plugin je zaměřený na implementaci shaderů drahých materiálů.
+image:3D/img/rare_materials/result.png[result, width = 100%]
+
+* Dokumentace k práci najdete xref:/3D/rareMaterials.adoc[zde]
+
+
+### Blender - Vliv počasí na materiál - Degradace kovu
+* Semestrální práce na téma vliv počasí na materiál. Plugin je zaměřený na implementaci degradace kovu rzí. Ovšem vzhledem k tomu, že se jedná o pricipiální materiál a povahu jeho implementace, 
+je velmi snadné ho upravit pro degradaci i jiných materiálů než pouze kovu. Plugin přidá degradační node group do aktivního materiálu otevřeného v node editoru.
+
+image:3D/img/metal_degradation/result.png[result, width = 100%]
+image:3D/img/metal_degradation/result_1.png[result, width = 100%]
+image:3D/img/metal_degradation/result_2.png[result, width = 100%]
+
+* Dokumentace k práci najdete xref:/3D/metalDegradation.adoc[zde]
