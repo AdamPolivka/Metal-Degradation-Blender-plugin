@@ -6,6 +6,7 @@ xref:metal_degradation.py#[metal_degradation.py]
 
 ## Instalace
 * Stáhněte si plug-in a nainstalujte ho v Bledenru v menu ```user preferences > add-ons > install addon from file``` zde vyberte plug in file a potvrďte tlačítkem install.
+
 image:img/metal_degradation/install.png[install]
 
 ## Použití pluginu
